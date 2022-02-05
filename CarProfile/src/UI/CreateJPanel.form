@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="87" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                      <Component id="LblName" min="-2" max="-2" attributes="0"/>
+                      <Component id="LblBrand" min="-2" max="-2" attributes="0"/>
+                      <Component id="LblColor" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="LblYear" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblEngineNo" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblSeatsNumber" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblLicensePlate" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblOwnerName" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblOwnerTelephoneNo" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblOwnerEmailAddress" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblOwnerSSN" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblOwnerAddress" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblServiceRecord" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="LblWarrantyYear" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="TxtServiceRecord" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtOwnerAddress" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtOwnerSSN" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtOwnerEmailAddress" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtOwnerTelephoneNo" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtLicensePlate" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtSeatsNumber" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtEngineNo" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtYear" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtModel" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtBrand" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtColor" min="-2" pref="110" max="-2" attributes="0"/>
+                          <Component id="TxtOwnerName" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="10" max="32767" attributes="0"/>
+                  </Group>
+                  <Component id="TxtWarrantyYear" min="-2" pref="110" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="446" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="LblFilePath" alignment="1" min="-2" pref="166" max="-2" attributes="0"/>
+                          <Component id="BtSubmit" min="-2" max="-2" attributes="0"/>
+                          <Component id="BtImage" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="LblCarServiceRecord" alignment="0" min="-2" pref="219" max="-2" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="LblDate" max="32767" attributes="0"/>
+                                          <Component id="LblWaterWash" max="32767" attributes="0"/>
+                                          <Component id="LblPaint" alignment="1" max="32767" attributes="0"/>
+                                          <Component id="LblWheelAlignment" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="TxtDate" min="-2" pref="79" max="-2" attributes="0"/>
+                                          <Component id="TxtWaterWash" min="-2" pref="79" max="-2" attributes="0"/>
+                                          <Component id="TxtPaint" min="-2" pref="79" max="-2" attributes="0"/>
+                                          <Component id="TxtWheelAlignment" min="-2" pref="79" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                                      <Component id="BtnAddSR" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="LblImage" min="-2" pref="197" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="LblTitle" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="159" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Component id="LblTitle" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblBrand" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TxtBrand" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="BtSubmit" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="LblName" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TxtModel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="LblColor" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TxtColor" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="TxtYear" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblYear" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="LblEngineNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TxtEngineNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="LblCarServiceRecord" alignment="3" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                      <Component id="BtImage" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="LblFilePath" min="-2" pref="22" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="LblSeatsNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="TxtSeatsNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="LblLicensePlate" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="TxtLicensePlate" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                      <Component id="LblDate" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                                      <Component id="TxtDate" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="LblOwnerName" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="TxtOwnerName" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                      <Component id="LblWaterWash" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                                      <Component id="TxtWaterWash" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="LblOwnerTelephoneNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="TxtOwnerTelephoneNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LblPaint" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                                  <Component id="TxtPaint" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="LblOwnerEmailAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="TxtOwnerEmailAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="LblWheelAlignment" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
+                                  <Component id="TxtWheelAlignment" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="LblOwnerSSN" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="TxtOwnerSSN" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="LblOwnerAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="TxtOwnerAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="BtnAddSR" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Component id="LblImage" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblServiceRecord" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TxtServiceRecord" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LblWarrantyYear" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="TxtWarrantyYear" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="LblTitle">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Car Profile"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblBrand">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Brand:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Model:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblColor">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Color:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblYear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Year:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblEngineNo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Engine No:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblSeatsNumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seats No:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblLicensePlate">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="License Plate:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblOwnerName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OwnerName:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblOwnerTelephoneNo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Telephone Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblOwnerEmailAddress">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Email Address:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblServiceRecord">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Service Record:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtBrand">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtBrandActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtModel">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtModelActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtColor">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtColorActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtYear">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtYearActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtEngineNo">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtEngineNoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtSeatsNumber">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtSeatsNumberActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtLicensePlate">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtLicensePlateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtOwnerName">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtOwnerNameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtOwnerTelephoneNo">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtOwnerTelephoneNoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtOwnerEmailAddress">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtOwnerEmailAddressActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtServiceRecord">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtServiceRecordActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="BtSubmit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Submit"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtSubmitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblOwnerSSN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner SSN:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtOwnerSSN">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtOwnerSSNActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblOwnerAddress">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Owner Address:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtOwnerAddress">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtOwnerAddressActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblWarrantyYear">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Warranty Year:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtWarrantyYear">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtWarrantyYearActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="BtImage">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Upload Image"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtImageActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblImage">
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblFilePath">
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblDate">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Date:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtDate">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtDateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblWaterWash">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Water Wash:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtWaterWash">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtWaterWashActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblPaint">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Paint:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtPaint">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtPaintActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblWheelAlignment">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Wheel Alignment:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="TxtWheelAlignment">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TxtWheelAlignmentActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LblCarServiceRecord">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="10" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="                CAR SERVICE RECORD"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BtnAddSR">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ADD"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BtnAddSRActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
